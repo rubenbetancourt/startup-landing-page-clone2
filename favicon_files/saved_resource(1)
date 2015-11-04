@@ -1,0 +1,17 @@
+var nm_mt_rand = '420868838';
+var nm_tag_uri = 'https://';
+var nm_query_str = 'aid=3808&siclientid=&ref=https%3A%2F%2Fcourses.thinkful.com%2Ffewd-001v4%2Fproject%2F1.5.12';
+
+
+if (document.getElementById && document.createElement && document.body) {
+  var i=document.createElement('IFRAME');
+  var axel = Math.random() + '';        
+  var a = axel * 10000000000000; 
+  i.src='//4727608.fls.doubleclick.net/activityi;src=4727608;type=invmedia;cat=7ltetgda;ord=' + a + '?';
+  i.width=1;
+  i.height=1;
+  i.frameBorder=0;
+  document.body.appendChild(i);
+}
+
+ 
